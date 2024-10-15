@@ -19,7 +19,7 @@ Le sélecteur universel applique un style à **tous** les éléments de la page.
 
 ## 2. Sélecteur d'Élément : h1, p, div... 🏷️
 
-Le sélecteur d'élément cible un type spécifique d'élément HTML, comme <h1>, <p>, <div>, etc.
+Le sélecteur d'élément cible un type spécifique d'élément HTML, comme `<h1>`, `<p>`, `<div>`, etc.
 
 ### Exemple :
 ```css
@@ -29,12 +29,12 @@ h1 {
 }
 ```
 
-🔎 **Explication :** Ici, tous les éléments <h1> de la page auront un texte bleu et une taille de police augmentée.
+🔎 **Explication :** Ici, tous les éléments `<h1>` de la page auront un texte bleu et une taille de police augmentée.
 
 
 ## 3. Sélecteur de Classe : .ma-classe 📚
 
-Le sélecteur de classe s'applique à un ou plusieurs éléments qui ont une classe spécifique. Les classes sont définies avec un point.
+Le sélecteur de classe s'applique à un ou plusieurs éléments qui ont une classe spécifique. Les classes sont définies avec un point `.`.
 
 ### Exemple :
 ```css
@@ -55,7 +55,7 @@ Le sélecteur de classe s'applique à un ou plusieurs éléments qui ont une cla
 
 ## 4. Sélecteur de d'ID : #mon-id 🆔
 
-Le sélecteur d'ID s'applique à un élément avec un identifiant unique. Il est défini avec un #.
+Le sélecteur d'ID s'applique à un élément avec un identifiant unique. Il est défini avec un `#`.
 
 ### Exemple :
 ```css
